@@ -5,8 +5,8 @@ This is the final project for MIDS w203. In this lab, we applied what we learned
 to produce a report that analyzes a specific research question. In our case, the relationship between concrete strenght
 
 Team Members:
-*Javier Rondon
-*Daniele Grandi
+* Javier Rondon
+* Daniele Grandi
 
 ## Project Organization
 

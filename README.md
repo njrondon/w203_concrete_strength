@@ -8,6 +8,11 @@ Team Members:
 * Javier Rondon
 * Daniele Grandi
 
+Documentation is located in:
+
+* The slides in W203-concrete strenght.pdf
+* The document in the reports folder W203_Grandi_Rondon_4_14_2022.pdf
+
 ## Project Organization
 
     ├── LICENSE

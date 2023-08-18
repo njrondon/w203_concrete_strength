@@ -4,9 +4,11 @@
 This is the final project for MIDS w203. In this lab, we applied what we learned about building linear models 
 to produce a report that analyzes a specific research question. In our case, the relationship between concrete strenght
 
+Team Members:
+*Javier Rondon
+*Daniele Grandi
 
-
-# Project Organization
+## Project Organization
 
     ├── LICENSE
     ├── README.md          <- The top-level README describing the project aims

@@ -24,7 +24,6 @@ Documentation is located in:
     │   ├── raw            <- Data from third party sources.
     │   ├── interim        <- Intermediate data that has been transformed.
     │   └── processed      <- The final, canonical data sets for modeling.
-    ├── notebooks          <- .Rmd notebooks. 
     ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
     └── src                <- Source code for use in this project.
         └── data           <- Scripts to download or generate data
